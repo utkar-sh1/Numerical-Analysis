@@ -5,9 +5,7 @@ Numerical methods implementation in MATLAB.
 
 ## Getting Started
 
-### Running the examples
 
-#
 ## Implementations
 
 #### Solutions
